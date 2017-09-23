@@ -1,0 +1,55 @@
+
+Vindi
+Put Oil,Medium,Do Nothing,1
+Put Zeera,Medium,Wave Once,0.30
+Put Onion,High,Wave,2
+Put Vindi,Low Medium,Wave,0.30
+Put Besar,Low Medium,Wave,0.30
+Cover,Low Medium,Do Nothing,4
+Open,Low Medium,Wave,0.30
+Cover,Low Medium,Do Nothing,4
+Open,Low Medium,Wave,0.30
+Cover,Low Medium,Do Nothing,3
+Open,Low Medium,Wave,0.30
+Add Salt n Masala,Low,Wave,0.30
+Cover,Low,Do Nothing,3
+Open,Low,Wave,0.30
+Cover,Low,Do Nothing,3
+Open,Low,Wave,0.30
+DONE
+Chicken
+Put Oil,Medium,Do Nothing,1
+Put Zeera,Medium,Wave Once,0.30
+Put Onion,High,Wave,2
+Put Vindi,Low Medium,Wave,0.30
+Put Besar,Low Medium,Wave,0.30
+Cover,Low Medium,Do Nothing,4
+Open,Low Medium,Wave,0.30
+Cover,Low Medium,Do Nothing,4
+Open,Low Medium,Wave,0.30
+Cover,Low Medium,Do Nothing,3
+Open,Low Medium,Wave,0.30
+Add Salt n Masala,Low,Wave,0.30
+Cover,Low,Do Nothing,3
+Open,Low,Wave,0.30
+Cover,Low,Do Nothing,3
+Open,Low,Wave,0.30
+DONE
+Karela
+Put Oil,Medium,Do Nothing,1
+Put Zeera,Medium,Wave Once,0.30
+Put Onion,High,Wave,2
+Put Vindi,Low Medium,Wave,0.30
+Put Besar,Low Medium,Wave,0.30
+Cover,Low Medium,Do Nothing,4
+Open,Low Medium,Wave,0.30
+Cover,Low Medium,Do Nothing,4
+Open,Low Medium,Wave,0.30
+Cover,Low Medium,Do Nothing,3
+Open,Low Medium,Wave,0.30
+Add Salt n Masala,Low,Wave,0.30
+Cover,Low,Do Nothing,3
+Open,Low,Wave,0.30
+Cover,Low,Do Nothing,3
+Open,Low,Wave,0.30
+DONE
