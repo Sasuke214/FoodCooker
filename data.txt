@@ -1,0 +1,85 @@
+....chicken gravy
+put oil,medium,do nothing,2
+put jeera,same,wave,2
+put onion and ginger garlic paste,medium high,wave,2.4
+put tomato and salt,same,wave,3
+put masala and haldi powder,low,wave,2
+put chicken,high,wave,3
+do nothing,high,wave,2
+put water,medium,wave,2
+its cooked,closed,do nothing,0
+DONE
+....paneer butter masala
+Put Oil,Medium,Do Nothing,1
+Put Onion,High,Wave,2
+Put tomato,Low Medium,Wave,3
+Put garam masala,Low Medium,Wave,3
+Cover,Low Medium,Do Nothing,4
+Open,Low Medium,Wave,2
+Cover,Low Medium,Do Nothing,4
+put paneer,high,wave,3
+Open,Low Medium,Wave,1
+put butter,low medium,wave,2
+Cover,Low Medium,Do Nothing,3
+Open,Low Medium,Wave,4
+DONE
+....potato curry
+Put oil,Medium,Wave Once,2
+Put potato,high,Do Nothing,5
+Put salt,High,Wave,2
+Put tomato,Low Medium,Wave2.5
+Put masala,Low Medium,Wave,3.5
+Cover,Low Medium,Do Nothing,4
+Open,Low Medium,Wave,3
+Add Salt n Masala,Low,Wave,2
+Cover,Low,Do Nothing,3
+Open,Low,Wave,1
+DONE
+....veg kurma
+Put water half,Medium,Wave Once,6
+Put garlic paste,Medium,Do Nothing,1
+Put onion,Medium,Wave Once,3
+Put tomatoes,High,Wave,2
+Put spice powder,Low Medium,Wave,4
+Put coriander,Low Medium,Wave,5
+Cover,Low Medium,Do Nothing,4
+Open,Low Medium,Wave,2
+Add veggies,Low,Wave,3
+Add water,Low,Wave,2.4
+Cover,Low,Do Nothing,3
+Open,Low,Wave,3
+Cover,Low,Do Nothing,3
+Open,Low,Wave,3.3
+DONE
+....Dal makhani
+Put water 2.5,high,Wave Once,3
+Put butter & oil,Medium,Do Nothing,1
+Put hing & ginger,Medium,Wave Once,3.5
+Put onions,High,Wave,2
+Put garam masala,Low Medium,Wave,1.30
+Put dal & rajma,Low Medium,Wave,1.2
+Cover,Low Medium,Do Nothing,3
+Open,Low Medium,Wave,3.0
+Add cream,low,Wave,4
+Add coriander & ginger,Low,Wave,3.0
+Cover,Low,Do Nothing,3.2
+Open,Low,Wave,2.0
+Cover,Low,Do Nothing,5
+Open,Low,Wave,1.3
+DONE
+....Chicken Butter Masala
+Put oil,high,Wave Once,3
+Put ginger & garlic paste,Medium,Do Nothing,1
+Put chicken,Medium,Wave Once,2
+Put butter,High,Wave,2
+Put tomatos,Low Medium,Wave,2
+Put chilli powder,Low Medium,Wave,1.0
+Cover,Low Medium,Do Nothing,3
+Open,Low Medium,Wave,1.3
+Add turmeric powder,low,Wave,3
+Add kasturi methi & salt,Low,Wave,3.0
+Cover,Low,Do Nothing,3
+Open,Low,Wave,3.3
+Cover,Low,Do Nothing,3
+Open,Low,Wave,3.0
+DONE
